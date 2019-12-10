@@ -1,0 +1,87 @@
+* {
+    -moz-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+
+.main-content {
+
+width: 298px;
+height: auto;
+margin: 10px auto;
+background: #fff;
+border-radius: 5px;
+}
+
+.login-container {
+
+border-bottom: 1px  tomato solid;
+text-align: left;
+font-size: 20px;
+padding: 15px;
+font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+ color: #8a97a0;
+}
+
+.user-container {
+border-bottom: 1px  tomato solid;
+padding: 15px;
+} 
+
+.submit-container {
+
+padding: 15px;
+}
+form {
+
+width: 100%;
+height: auto;
+font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}  
+
+.input-format, button {
+
+width: 100%;
+padding: 10px;
+display: block;
+font-size: 15px;
+margin: 20px auto;
+font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+box-shadow: none;
+
+}
+
+input::placeholder  {
+
+color: #8a97a0;
+}
+
+button {
+
+text-align: center;
+color: #fff;
+background: #3b5998;
+border: none;
+font-size: 30px;
+font-weight: bold;
+}
+
+a {
+text-decoration: none;
+}
+
+
+a:link {
+text-decoration: none;
+color:#8a97a0;
+}
+
+a:visited {
+text-decoration: none;
+color:#8a97a0;
+}
+</style>
