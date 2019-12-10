@@ -10,7 +10,7 @@ body{
     line-height:1.6; 
 }
 #showcase{
-    background-image:url("showcase.jpg");
+    background-image:url("https://res.cloudinary.com/fizy2019/image/upload/v1575946752/showcase_qbzffb.jpg");
     background-size:cover;
     background-position:center;
     height:100vh;
